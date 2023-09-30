@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I am a developer with a background in finance. I am experienced in working across multiple teams, with strong analytical and time management skills and great attention to detail. I’m looking for a full-time role as a front-end developer, where I feel challenged and can apply my skills in optimizing and developing the best technical solutions.
+I am a passionate Frontend Developer leveraging a background in Finance to innovate in the Fintech arena. 
+After years in finance, I've pivoted to create user-centric, intuitive applications. 
+Currently sharpening my skills as a Frontend Developer with React and TypeScript, contributing to cutting-edge investment solutions.
 
 * 🖥️  See my portfolio at [MyPortfolio](http://www.miguelsemedo.com)
 * ✉️  You can contact me at [miguel.2.semedo@gmail.com](mailto:miguel.2.semedo@gmail.com)
